@@ -9,7 +9,10 @@ k近邻法(k-nearest neighbor, k-NN)是1967年由Cover T和Hart P提出的一种
 最后，选择k个最相似数据中出现次数最多的分类，作为新数据的分类。
 
 ## 二、knn的距离度量
-以特征数据量为维度的欧式距离  
+以特征数据量为维度的欧式距离:  
+
+<img src="./imgs/knn-4.png"><br>
+
 即：假设特征数据量n=2，则距离为一下公式：   
 
 <img src="./imgs/knn-1.png"><br>
